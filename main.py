@@ -21,11 +21,11 @@ class Market:
                     print("Enter correct value or enter q to exit ")
             else:
                 break
-        with open('PROJECT 1/output.txt','w') as f:
+        with open('PROJECT1/Bill.txt','w') as f:
             f.write(f'Total number of Items = {self.count} \n')
             for index, item in enumerate(self.li):
                 f.write(f"{index+1} -> {item} \n")
-            f.write(f'Total Amount Payable = {self.sum} ')
+            f.write(f'Total Amount Payable = Rs{self.sum} ')
             
             
 

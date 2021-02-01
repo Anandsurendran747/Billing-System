@@ -1,0 +1,7 @@
+Total number of Items = 5 
+1 -> Rice - Rs36 
+2 -> Oil - Rs210 
+3 -> Suger - Rs40 
+4 -> Banana - Rs50 
+5 -> Carrot - Rs30 
+Total Amount Payable = Rs366 
